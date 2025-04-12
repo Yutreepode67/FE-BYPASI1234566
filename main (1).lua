@@ -1,11 +1,5 @@
 local plr  = game.Players.LocalPlayer
 
-if (plr:IsFriendsWith(7975374847)) then
-    print("surely whitelisted")
-else
-    plr:Kick("Skiddeeeer")
-end
-
 local Water = Instance.new("ScreenGui")
 		local TextLabel = Instance.new("TextLabel")
 local UIGradient = Instance.new("UIGradient")
