@@ -1,5 +1,3 @@
-local plr  = game.Players.LocalPlayer
-
 local Water = Instance.new("ScreenGui")
 		local TextLabel = Instance.new("TextLabel")
 local UIGradient = Instance.new("UIGradient")
